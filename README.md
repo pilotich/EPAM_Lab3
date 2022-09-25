@@ -6,7 +6,7 @@
 
 [https://testengineer.ru/kak-pisat-test-kejsy-polnoe-rukovodstvo/](https://testengineer.ru/kak-pisat-test-kejsy-polnoe-rukovodstvo/) 
 
-Функциональное тестирование:
+Данные тест-кейсы были расписаны для элементов сайта https://www.armani.com/en-wx
 
 | ID | 1 |
 | --- | --- |
